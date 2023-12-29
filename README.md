@@ -15,14 +15,20 @@
 
 # Title: JavaScript Algorithms and Data Structures
 ### Website: https://www.freecodecamp.org/
+
 [Visit Course](https://www.freecodecamp.org/learn/)
 ## Total 9 Modules
+
 ### List of Modules
 1. Basic JavaScript
 
-| Days | Completed(Max 1Hr) | Date |
-| -----| ---------| ---------|
-| 1 | :heavy_check_mark: | 29-Dec-23|
+| Days | Completed or Not(Max 1Hr) | Date | Last Module |
+| -----| ---------| ---------| -------| 
+| 1 | :heavy_check_mark: | 29-Dec-23| Introducing Else Statements |
+
+> "We dare to die because we're afraid of hunger."
+> - *Volcanic Sulfur Miner*
+
 <!-- 
 Markdown Syntax
 :heavy_multiplication_x: 
