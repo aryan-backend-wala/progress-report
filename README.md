@@ -20,7 +20,7 @@
 ### List of Modules
 1. Basic JavaScript
 
-| Days | Duration(Max 1Hr) | Date |
+| Days | Completed(Max 1Hr) | Date |
 | -----| ---------| ---------|
 | 1 | :heavy_check_mark: | 29-Dec-23|
 <!-- 
