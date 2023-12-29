@@ -5,7 +5,7 @@
 
 | Days | Duration | Date |
 | -----| ---------| ------|
-| 1 | 00:00 | 29-Dec-23|
+| 1 | 2:26:42 | 29-Dec-23|
 
 ## Key Keywords Acquired Throughout the Duration of the Course
 1. *Item*
