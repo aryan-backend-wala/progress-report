@@ -27,7 +27,8 @@
 
 | Days | Completed or Not(Max 1Hr) | Date | Last Module |
 | -----| ---------| ---------| -------| 
-| 1 | :heavy_check_mark: | 29-Dec-23| Introducing Else Statements |
+| 1 | ✔️ | 29-Dec-23| Introducing Else Statements |
+| 2 | ✔️ | 30-Dec-23| Accessing Object Properties with Variables |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
