@@ -7,8 +7,11 @@
 | -----| ---------| ------|
 | 1 | 2:26:42 | 29-Dec-23|
 
-## Key Keywords Acquired Throughout the Duration of the Course
-1. *Item*
+## Libraries Used Throughout the Duration of the Course
+1. *express*
+2. *dotenv*
+3. *mongoose*
+4. *nodemon*
 
 > "The most common way people give up their power is by thinking they don't have any"
 > - *Alice Walker*
