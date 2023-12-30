@@ -6,7 +6,7 @@
 | Days | Duration | Date |
 | -----| ---------| ------|
 | 1 | 2:26:42 | 29-Dec-23|
-| 1 | 2:26:42 | 30-Dec-23|
+| 2 | 3:07:38 | 30-Dec-23|
 
 ## Libraries Used Throughout the Duration of the Course
 1. *express*
