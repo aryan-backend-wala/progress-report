@@ -30,6 +30,7 @@
 | -----| ---------| ---------| -------| 
 | 1 | ✔️ | 29-Dec-23| Introducing Else Statements |
 | 2 | ✔️ | 30-Dec-23| Accessing Object Properties with Variables |
+| 3 | ✔️ | 31-Dec-23| Iterate with JavaScript While Loops |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
