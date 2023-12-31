@@ -52,6 +52,9 @@
 | 1 | 30-Dec-23| 
 | 2 |  31-Dec-23|
 
+> "There is no elevator to success, you have to take the stairs."
+> - *Zig Ziglar*
+
 <!-- 
 Markdown Syntax
 :heavy_multiplication_x: 
