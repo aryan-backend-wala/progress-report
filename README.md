@@ -49,6 +49,9 @@
 4. URL Building
 5. Middleware
 6. Templating
+7. Static files
+8. Form Data
+9. Database
 
 | Days | Date | 
 | -----| ---------| 
