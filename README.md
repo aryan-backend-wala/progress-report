@@ -8,7 +8,8 @@
 | 1 | 2:26:42 | 29-Dec-23|
 | 2 | 3:07:38 | 30-Dec-23|
 | 3 | 3:41:54 | 31-Dec-23|
-
+| 4 | 3:46:47 | 01-Jan-24|
+// 3:46:47
 ## Libraries Used Throughout the Duration of the Course
 1. *express*
 2. *dotenv*
