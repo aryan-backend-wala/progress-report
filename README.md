@@ -9,7 +9,7 @@
 | 2 | 3:07:38 | 30-Dec-23|
 | 3 | 3:41:54 | 31-Dec-23|
 | 4 | 3:46:47 | 01-Jan-24|
-// 3:46:47
+
 ## Libraries Used Throughout the Duration of the Course
 1. *express*
 2. *dotenv*
@@ -27,6 +27,7 @@
 
 ### List of Modules
 1. Basic JavaScript
+2. ES6
 
 | Days | Completed or Not(Max 1Hr) | Date | Last Module |
 | -----| ---------| ---------| -------| 
@@ -34,6 +35,7 @@
 | 2 | ✔️ | 30-Dec-23| Accessing Object Properties with Variables |
 | 3 | ✔️ | 31-Dec-23| Iterate with JavaScript While Loops |
 | 4 | ✔️ | 01-Jan-24| Profile Lookup |
+| 5 | ✔️ | 02-Jan-24| Prevent Object Mutation |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
