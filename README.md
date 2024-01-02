@@ -9,6 +9,7 @@
 | 2 | 3:07:38 | 30-Dec-23|
 | 3 | 3:41:54 | 31-Dec-23|
 | 4 | 3:46:47 | 01-Jan-24|
+| 5 | ✖️ | 02-Jan-24|
 
 ## Libraries Used Throughout the Duration of the Course
 1. *express*
@@ -55,11 +56,16 @@
 7. Static files
 8. Form Data
 9. Database
+10. Cookies
+11. Sessions
+12. -
 
-| Days | Date | 
-| -----| ---------| 
-| 1 | 30-Dec-23| 
-| 2 |  31-Dec-23|
+| Days | Date | Done or Not |
+| -----| ---------| ------ |
+| 1 | 30-Dec-23| ✔️|
+| 2 |  31-Dec-23| ✔️|
+| 3 | 01-Jan-24| ✔️|
+| 4 |  01-Jan-24| ✔️|
 
 > "There is no elevator to success, you have to take the stairs."
 > - *Zig Ziglar*
