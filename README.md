@@ -37,6 +37,7 @@
 | 3 | ✔️ | 31-Dec-23| Iterate with JavaScript While Loops |
 | 4 | ✔️ | 01-Jan-24| Profile Lookup |
 | 5 | ✔️ | 02-Jan-24| Prevent Object Mutation |
+| 6 | ✔️ | 03-Jan-24| Create Strings using Template Literals |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
