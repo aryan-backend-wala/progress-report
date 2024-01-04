@@ -38,6 +38,7 @@
 | 4 | ✔️ | 01-Jan-24| Profile Lookup |
 | 5 | ✔️ | 02-Jan-24| Prevent Object Mutation |
 | 6 | ✔️ | 03-Jan-24| Create Strings using Template Literals |
+| 7 | ✔️ | 05-Jan-24| Create a Module Script |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
