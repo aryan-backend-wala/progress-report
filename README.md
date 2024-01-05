@@ -29,6 +29,8 @@
 ### List of Modules
 1. Basic JavaScript
 2. ES6
+3. Debugging
+4. Basic Data Structures
 
 | Days | Completed or Not(Max 1Hr) | Date | Last Module |
 | -----| ---------| ---------| -------| 
@@ -39,7 +41,8 @@
 | 5 | ✔️ | 02-Jan-24| Prevent Object Mutation |
 | 6 | ✔️ | 03-Jan-24| Create Strings using Template Literals |
 | 7 | ✔️ | 04-Jan-24| Create a Module Script |
-
+| 8 | ✔️ | 05-Jan-24| Remove Items Using splice() |
+// 3:25
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
 
