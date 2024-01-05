@@ -42,7 +42,7 @@
 | 6 | ✔️ | 03-Jan-24| Create Strings using Template Literals |
 | 7 | ✔️ | 04-Jan-24| Create a Module Script |
 | 8 | ✔️ | 05-Jan-24| Remove Items Using splice() |
-// 3:25
+
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
 
