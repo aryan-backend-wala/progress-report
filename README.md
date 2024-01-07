@@ -31,6 +31,7 @@
 2. ES6
 3. Debugging
 4. Basic Data Structures
+5. Basic Algorithm Scripting
 
 | Days | Completed or Not(Max 1Hr) | Date | Last Module |
 | -----| ---------| ---------| -------| 
@@ -43,6 +44,7 @@
 | 7 | ✔️ | 04-Jan-24| Create a Module Script |
 | 8 | ✔️ | 05-Jan-24| Remove Items Using splice() |
 | 9 | ✔️ | 06-Jan-24| Create complex multi-dimensional arrays |
+| 10 | ✔️ | 07-Jan-24| Find the Longest Word in a String |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
