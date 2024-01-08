@@ -45,6 +45,7 @@
 | 8 | ✔️ | 05-Jan-24| Remove Items Using splice() |
 | 9 | ✔️ | 06-Jan-24| Create complex multi-dimensional arrays |
 | 10 | ✔️ | 07-Jan-24| Find the Longest Word in a String |
+| 11 | ✔️ | 08-Jan-24| Slice and Splice |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
