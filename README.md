@@ -46,6 +46,7 @@
 | 9 | ✔️ | 06-Jan-24| Create complex multi-dimensional arrays |
 | 10 | ✔️ | 07-Jan-24| Find the Longest Word in a String |
 | 11 | ✔️ | 08-Jan-24| Slice and Splice |
+| 12 | ✔️ | 09-Jan-24| Mutations |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
