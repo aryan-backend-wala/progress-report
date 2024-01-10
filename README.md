@@ -32,6 +32,7 @@
 3. Debugging
 4. Basic Data Structures
 5. Basic Algorithm Scripting
+6. Object Oriented Programming
 
 | Days | Completed or Not(Max 1Hr) | Date | Last Module |
 | -----| ---------| ---------| -------| 
