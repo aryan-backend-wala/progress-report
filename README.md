@@ -47,6 +47,7 @@
 | 10 | ✔️ | 07-Jan-24| Find the Longest Word in a String |
 | 11 | ✔️ | 08-Jan-24| Slice and Splice |
 | 12 | ✔️ | 09-Jan-24| Mutations |
+| 13 | ✔️ | 10-Jan-24| Use Prototype Properties to Reduce Duplicate Code |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
