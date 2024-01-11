@@ -49,6 +49,7 @@
 | 11 | ✔️ | 08-Jan-24| Slice and Splice |
 | 12 | ✔️ | 09-Jan-24| Mutations |
 | 13 | ✔️ | 10-Jan-24| Use Prototype Properties to Reduce Duplicate Code |
+| 14 | ✔️ | 11-Jan-24| Understand Functional Programming Terminology |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
