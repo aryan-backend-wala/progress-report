@@ -51,9 +51,14 @@
 | 12 | ✔️ | 09-Jan-24| Mutations |
 | 13 | ✔️ | 10-Jan-24| Use Prototype Properties to Reduce Duplicate Code |
 | 14 | ✔️ | 11-Jan-24| Understand Functional Programming Terminology |
-
+| 14 | ✔️ | 11-Jan-24| Understand Functional Programming Terminology |
+// 14: 52 // 16:28
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
+
+### Things I do in a Day:
+1. max 1hour javascript course 10 min penalty
+2. javascript method exploration 1hour max
 
 # Title: ExpressJS Tutorial
 
