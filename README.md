@@ -51,8 +51,8 @@
 | 12 | ✔️ | 09-Jan-24| Mutations |
 | 13 | ✔️ | 10-Jan-24| Use Prototype Properties to Reduce Duplicate Code |
 | 14 | ✔️ | 11-Jan-24| Understand Functional Programming Terminology |
-| 14 | ✔️ | 11-Jan-24| Understand Functional Programming Terminology |
-// 14: 52 // 16:28
+| 15 | ✔️ | 12-Jan-24| Use the map Method to Extract Data from an Array |
+
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
 
