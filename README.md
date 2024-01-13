@@ -52,6 +52,7 @@
 | 13 | ✔️ | 10-Jan-24| Use Prototype Properties to Reduce Duplicate Code |
 | 14 | ✔️ | 11-Jan-24| Understand Functional Programming Terminology |
 | 15 | ✔️ | 12-Jan-24| Use the map Method to Extract Data from an Array |
+| 16 | ✔️ | 13-Jan-24| Return Part of an Array Using the slice Method |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
