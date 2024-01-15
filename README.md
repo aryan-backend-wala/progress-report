@@ -34,6 +34,7 @@
 5. Basic Algorithm Scripting
 6. Object Oriented Programming
 7. Functional Programming
+8. Intermediate Algorithm Scripting
 
 | Days | Completed or Not(Max 1Hr) | Date | Last Module |
 | -----| ---------| ---------| -------| 
@@ -54,6 +55,7 @@
 | 15 | ✔️ | 12-Jan-24| Use the map Method to Extract Data from an Array |
 | 16 | ✔️ | 13-Jan-24| Return Part of an Array Using the slice Method |
 | 17 | ✔️ | 14-Jan-24| Use the every Method to Check that Every Element in an Array Meets a Criteria |
+| 18 | ✔️ | 15-Jan-24| Diff Two Arrays |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
