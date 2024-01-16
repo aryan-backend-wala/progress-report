@@ -56,6 +56,7 @@
 | 16 | ✔️ | 13-Jan-24| Return Part of an Array Using the slice Method |
 | 17 | ✔️ | 14-Jan-24| Use the every Method to Check that Every Element in an Array Meets a Criteria |
 | 18 | ✔️ | 15-Jan-24| Diff Two Arrays |
+| 19 | ✔️ | 16-Jan-24| Seek and Destroy|
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
