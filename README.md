@@ -60,9 +60,27 @@
 | 20 | ✔️ | 17-Jan-24| Wherefore art thou |
 | 21 | ✔️ | 18-Jan-24| Spinal Tap Case |
 | 22 | ✔️ | 19-Jan-24| Pig Latin |
+| 23 | ✔️ | 20-Jan-24| DNA Pairing |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
+//
+# Title: JavaScript Algorithms and Data Structures (Beta)
+### Website: https://www.freecodecamp.org/
+
+[Visit Course](https://www.freecodecamp.org/learn/)
+## Total 9 Modules
+
+### List of Modules
+1. Build a Palindrome Checker
+
+| Days | Completed or Not(Max 1Hr) | Date | Last Module | Step |
+| -----| ---------| ---------| -------| ----- |
+| 1 | ✔️ | 20-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 6 |
+
+> "We dare to die because we're afraid of hunger."
+> - *Volcanic Sulfur Miner*
+//
 
 ### Things I do in a Day:
 1. max 1hour javascript course 10 min penalty
