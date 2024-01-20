@@ -58,6 +58,8 @@
 | 18 | ✔️ | 15-Jan-24| Diff Two Arrays |
 | 19 | ✔️ | 16-Jan-24| Seek and Destroy|
 | 20 | ✔️ | 17-Jan-24| Wherefore art thou |
+| 21 | ✔️ | 18-Jan-24| Spinal Tap Case |
+| 22 | ✔️ | 19-Jan-24| Pig Latin |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
