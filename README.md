@@ -61,6 +61,7 @@
 | 21 | ✔️ | 18-Jan-24| Spinal Tap Case |
 | 22 | ✔️ | 19-Jan-24| Pig Latin |
 | 23 | ✔️ | 20-Jan-24| DNA Pairing |
+| 24 | ✔️ | 21-Jan-24| Missing letters |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
