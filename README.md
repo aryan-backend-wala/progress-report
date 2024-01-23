@@ -74,13 +74,13 @@
 
 ### List of Projects
 1. Build a Palindrome Checker
+
 | Days | Completed or Not(Max 1Hr) | Date | Last Module | Step |
 | -----| ---------| ---------| -------| ----- |
 | 1 | ✔️ | 20-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 6 |
 | 2 | ✔️ | 21-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 31 |
 | 3 | ✔️ | 22-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 50 |
-| 4+ | ✔️ | 23-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 75 - Step 95 |
-// 15: 27 stop: 15: 41 more 16 min in: 15: 56
+| 4+ | ✔️ | 23-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 75-Step 95 |
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
 > - *Thomas Edison*
 
