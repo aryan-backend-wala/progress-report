@@ -106,7 +106,7 @@
 9. Database
 10. Cookies
 11. Sessions
-12. -
+12. 
 
 | Days | Date | Done or Not |
 | -----| ---------| ------ |
