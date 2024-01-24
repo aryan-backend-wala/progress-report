@@ -81,6 +81,8 @@
 | 2 | ✔️ | 21-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 31 |
 | 3 | ✔️ | 22-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 50 |
 | 4+ | ✔️ | 23-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 75-Step 95 |
+| 5 | ✔️ | 24-Jan-24| Learn Basic JavaScript by Building a Role Playing Game | Step 125 |
+
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
 > - *Thomas Edison*
 
