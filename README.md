@@ -63,7 +63,7 @@
 | 23 | ✔️ | 20-Jan-24| DNA Pairing |
 | 24 | ✔️ | 21-Jan-24| Missing letters |
 | 25 | ✔️ | 22-Jan-24| Sum All Odd Fibonacci Numbers |
-| 26 | ✔️ | 23-Jan-24| Sum All Primes |
+| 26+ | ✔️ | 23-Jan-24| Sum All Primes |
 | 27 | ✔️ | 24-Jan-24| Smallest Common Multiple |
 
 > "We dare to die because we're afraid of hunger."
