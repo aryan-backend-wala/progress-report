@@ -66,6 +66,7 @@
 | 26+ | ✔️ | 23-Jan-24| Sum All Primes |
 | 27 | ✔️ | 24-Jan-24| Smallest Common Multiple |
 | 28 | ✔️ | 25-Jan-24| Drop it |
+| 29 | ✔️ | 26-Jan-24| Binary Agents |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
