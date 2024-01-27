@@ -94,6 +94,7 @@
 | Days | Completed or Not(Max 1Hr) | Date | Last Module | Step |
 | -----| ---------| ---------| -------| ----- |
 | 7 | ✔️ | 26-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 14 |
+| 8 | ✔️ | 27-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 42 |
 
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
 > - *Thomas Edison*
