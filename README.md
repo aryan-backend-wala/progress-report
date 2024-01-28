@@ -68,6 +68,7 @@
 | 28 | ✔️ | 25-Jan-24| Drop it |
 | 29 | ✔️ | 26-Jan-24| Binary Agents|
 | 30 | ✔️ | 27-Jan-24| Arguments Optional |
+| 31 | ✔️ | 28-Jan-24| Map the Debris |
 
 > "We dare to die because we're afraid of hunger."
 > - *Volcanic Sulfur Miner*
