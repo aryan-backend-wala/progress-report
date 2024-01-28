@@ -96,6 +96,7 @@
 | -----| ---------| ---------| -------| ----- |
 | 7 | ✔️ | 26-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 14 |
 | 8 | ✔️ | 27-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 42 |
+| 9 | ✔️ | 28-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 57 |
 
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
 > - *Thomas Edison*
