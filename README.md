@@ -101,7 +101,8 @@
 | 10 | ✔️ | 30-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 49 |
 | 11 | ✔️ | 31-Jan-24| Learn Form Validation by Building a Calorie Counter | Step 94 |
 | 12 | ✔️ | 01-Feb-24| Learn Basic String and Array Methods by Building a Music Player | Step 36 |
-// 21: 04
+| 13 | ✔️ | 04-Feb-24| Learn Basic String and Array Methods by Building a Music Player | Step 90 |
+
 > "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
 > - *Thomas Edison*
 
